@@ -1,4 +1,9 @@
 # BaiduCrawler
+```
+pip install BeautifulSoup4
+pip install lxml
+```
+
 
 最近在训练一个文本分类模型，但是数据量实在是少。于是就想通过利用近义词或反义词替换文本中的某些词，达到扩充数据的目的。
 
